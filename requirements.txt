@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+demoji
+scikit-learn
+nltk
+wordcloud
+plotly
+xgboost
+emoji
+langdetect
+contractions
+imblearn
+seaborn
